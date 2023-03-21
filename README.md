@@ -71,9 +71,7 @@ Meus contatos:
 <br>
 <a href="https://www.linkedin.com/in/iuri-klimaschenski-luna/" target="_blank" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"><a>  
-<a href="https://mail.google.com/mail/u/0/#all?compose=DmwnWrRqhBlpLWQRgrtDwDwgfrXxcDvpLnZXlLcpmcxfCrvkGbShVxLcjqcNPScktXDZhJvmxwMq" target="_blank" >
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a>
-<br><br>
+
 
 [![Iuri Stats](https://github-readme-stats.vercel.app/api?username=iuriluna)](https://github.com/anuraghazra/github-readme-stats)
 <br>
