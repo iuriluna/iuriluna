@@ -1,6 +1,6 @@
 Olá, me chamo Iuri e sou apaixonado por criar soluções e resolver problemas com a programação :)
 
-Atuo como Desenvolvedor Front-end e estou focado na minha trajetória rumo ao Fullstack.
+Atuo como Desenvolvedor Front-end:
 
 No **Front-end** obtive experiências com projetos utilizando:
 <br><br>
@@ -8,7 +8,15 @@ No **Front-end** obtive experiências com projetos utilizando:
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <br>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
+<br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"> 
+<br>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"> 
+<br>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" >
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" >
 <br>
@@ -37,41 +45,23 @@ No **Back-end** obtive experiências com projetos utilizando:
 
 Me apaixonei pela programação no primeiro contato quando vi que era possível entregar soluções para problemas com tanta criatividade, então não pensei duas vezes para começar a me especializar em desenvolvimento web. :books:
 <br><br>
-E para meu melhor aperfeiçoamento na área, engressei na formação Fullstack do Dev Club onde são passados conhecimentos de:
-
-• HTML & CSS
-<br>
-• JavaScript
-<br>
-• React & React Native 
-<br>
-• Node
-<br>
-• Express
-<br>
-• Docker
-<br>
-• Token Jwt
-<br>
-• Bancos de dados Relacionais & não relacionais 
-<br>
-• Postgres
-<br>
-• Mongodb 
-<br>
+E para meu melhor aperfeiçoamento na área, engressei em formações onde são passados conhecimentos nas áreas citadas acima.
  
-<br><br>
 Estou sempre motivado a buscar novos conhecimentos para uma melhor desenvoltura na minha carreira a fim de resolver todos os problemas que chegarem a mim de forma estratégica e especializada.
-<br><br>
+<br>
 Obrigado por visitar! :)
 <br><br>
-Meus contatos:
+
+Meu Linkedin:
 <br>
 <a href="https://www.linkedin.com/in/iuri-klimaschenski-luna/" target="_blank" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"><a>  
 
 
 [![Iuri Stats](https://github-readme-stats.vercel.app/api?username=iuriluna)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs Iuri](https://github-readme-stats.vercel.app/api/top-langs/?username=iuriluna)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <hr>
+ 
+ [![Top Langs Iuri](https://github-readme-stats.vercel.app/api/top-langs/?username=iuriluna)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
